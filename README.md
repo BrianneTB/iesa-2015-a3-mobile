@@ -22,5 +22,7 @@ plugin device: http://docs.phonegap.com/en/edge/cordova_device_device.md.html
 
 plugin connection: http://docs.phonegap.com/en/edge/cordova_connection_connection.md.html
 
+ATTENTION verifier que l'on est bien dans le bon fichier xcode
+
 
 
